@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">hello</string>
+    <string name="txt" translatable="false">TeamA</string>
+    <string name="txtout" translatable="false">0</string>
+    <string name="btn1" translatable="false">+1 POINTS</string>
+    <string name="btn2" translatable="false">+2 POINTS</string>
+    <string name="btn3" translatable="false">+3 POINTS</string>
+    <string name="btn4" translatable="false">RESET</string>
+</resources>
